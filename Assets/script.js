@@ -9,12 +9,12 @@ $(document).ready(function () {
         var text = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
 
-        // Save text in local storage
+        // Saved text in local storage
         localStorage.setItem(time, text);
     })
    
     function timeTracker() {
-        //get current number of hours.
+        // current number of hours.
         var timeNow = moment().hour();
 
         // loop over time blocks
