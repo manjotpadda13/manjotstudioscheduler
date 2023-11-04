@@ -10,7 +10,7 @@ body {
     resize: none;
     color: #000000;
     border-left: 1px solid black;
-    padding: 10px;
+    padding: 15px;
   }
 
   
@@ -19,12 +19,10 @@ body {
     background-color: transparent;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid pink;
+    border-bottom: 15px solid pink;
   }
   
-  .description {
-    white-space: pre-wrap;
-  }
+
   
   .time-block {
     text-align: center;
@@ -36,11 +34,15 @@ body {
     height: 80px;
     border-top: 1px solid white;
   }
+
+  .description {
+    white-space: pre-wrap;
+  }
   
   .hour {
     background-color: #ffffff;
     color: #000000;
-    border-top: 1px dashed #f078bed5;
+    border-top: 1px dotted #f078bed5;
   }
   
   .past {
@@ -66,26 +68,28 @@ body {
     color: white;
   }
   
-  .saveBtn i:hover {
-    font-size: 20px;
-    transition: all 0.3s ease-in-out;
-  }
+
   
   @media screen and (max-width: 770px), screen and (max-width: 600px) {
     .row {
       height: auto;
       margin-top: 20px;
     }
+
+    .saveBtn i:hover {
+        font-size: 20px;
+        transition: all 0.3s ease-in-out;
+      }
   
-    .hour {
-      padding-right: 17%;
-    }
-  
-    .saveBtn {
+     .saveBtn {
       border: 0;
       border-radius: 0.25rem;
       height: 50px;
     }
+
+    .hour {
+        padding-right: 17%;
+      }
 
   
     textarea {
