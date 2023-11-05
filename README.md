@@ -64,3 +64,5 @@ https://github.com/manjotpadda13/manjotstudioscheduler/assets/79305241/7286c82e-
 
 
 ## Deployed Link
+
+https://manjotpadda13.github.io/manjotstudioscheduler/
