@@ -46,6 +46,17 @@ The following animation demonstrates the application functionality:
 
 
 
+## Usage 
+- Application shows current date on the top of the page
+- Then is displayed work day hours starting from 8 am - 5pm
+- Each different time block is coloured to show past,present,future
+- Past grey,present hot pink, future purple
+- Once you click the save button to the right, it will be saved 
+- It will stay saved as you refresh
+- Thats the work day schedular
+
+
+
 
 
 ## Deployed Link
