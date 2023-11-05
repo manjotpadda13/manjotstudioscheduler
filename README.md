@@ -40,4 +40,12 @@ THEN the saved events persist
 
 
 
+
+## Functionality 
 The following animation demonstrates the application functionality:
+
+
+
+
+
+## Deployed Link
