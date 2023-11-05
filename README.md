@@ -46,6 +46,10 @@ The following animation demonstrates the application functionality:
 
 
 
+https://github.com/manjotpadda13/manjotstudioscheduler/assets/79305241/7286c82e-4d77-451a-9a1b-efdf0a93d5d2
+
+
+
 ## Usage 
 - Application shows current date on the top of the page
 - Then is displayed work day hours starting from 8 am - 5pm
